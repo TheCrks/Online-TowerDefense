@@ -10,7 +10,7 @@ from Game import KareDefence
 from Game import DaireDefence
 from Game import UcgenDefence
 
-server = "10.58.7.131"
+server = "ip address"
 port = 5555
 
 sockett = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
